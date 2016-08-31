@@ -1,7 +1,8 @@
 Package.describe({
-    name: 'cornerstone',
+    name: 'lancelotsmith:cornerstone',
     summary: 'Cornerstone Web-based Medical Imaging libraries',
-    version: '0.0.1'
+    version: '0.0.1',
+    git:"https://github.com/lancelotsmith/cornerstone.git"
 });
 
 Package.onUse(function(api) {
